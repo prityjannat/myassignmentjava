@@ -15,5 +15,6 @@ public class Character_Count_04 {
         int rest = input.length()-2;
         System.out.println(first+rest+last);
     }
+
 }
 
